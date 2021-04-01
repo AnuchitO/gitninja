@@ -1,5 +1,6 @@
 # gitninja
 nong#1 new change here
+ng$#1
 nong#2
 nong#3
 
